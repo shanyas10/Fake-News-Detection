@@ -6,3 +6,8 @@ With growing role of social media as critical components of information, emergen
 
 ![model architecture](cnn-char.png)
 
+![model architecture](multi_modal.png)
+
+![results](table.png)
+
+You can read about the work in detail [here](https://github.com/thechange/Fake-News-Detection/paper.pdf)
