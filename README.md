@@ -4,4 +4,5 @@ With growing role of social media as critical components of information, emergen
 
 ![Fake news examples](fakenews.png)
 
+![model architecture](cnn-char.png)
 
