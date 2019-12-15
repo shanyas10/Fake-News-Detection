@@ -6,3 +6,7 @@ With growing role of social media as critical components of information, emergen
 
 ![model architecture](cnn-char.png)
 
+![model architecture](multi_modal.png)
+
+![results](table.png)
+
