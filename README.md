@@ -17,6 +17,7 @@ With growing role of social media as critical components of information, emergen
 <p align = "center">
   <img src = "multi_modal.png"/>
 </p>
+
 ## Results
 <p align = "center">
   <img src = "table.png"/>
