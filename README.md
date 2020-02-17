@@ -14,12 +14,13 @@ With growing role of social media as critical components of information, emergen
 </p>
 
 ### Deep Learning (Multimodal approach)
-
-![model architecture](multi_modal.png){ width="800" height="600" style="display: block; margin: 0 auto" }
-
+<p align = "center">
+  <img src = "multi_modal.png"/>
+</p>
 ## Results
-
-![results](table.png){ style="display: block; margin: 0 auto" }
+<p align = "center">
+  <img src = "table.png"/>
+</p>
 
 ## Report
 
