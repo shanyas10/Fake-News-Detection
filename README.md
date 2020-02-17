@@ -4,10 +4,16 @@ With growing role of social media as critical components of information, emergen
 
 ![Fake news examples](fakenews.png)
 
+## Model
+
 ![model architecture](cnn-char.png)
 
 ![model architecture](multi_modal.png)
 
+## Results
+
 ![results](table.png)
+
+## Report
 
 You can read about the work in detail [here](https://github.com/thechange/Fake-News-Detection/paper.pdf)
