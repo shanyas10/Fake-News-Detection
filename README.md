@@ -6,7 +6,11 @@ With growing role of social media as critical components of information, emergen
 
 ## Model
 
+### Deep Learning (Text Only)
+
 ![model architecture](cnn-char.png)
+
+### Deep Learning (Multimodal approach)
 
 ![model architecture](multi_modal.png)
 
