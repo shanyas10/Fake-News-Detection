@@ -8,15 +8,21 @@ With growing role of social media as critical components of information, emergen
 
 ### Deep Learning (Text Only)
 
+# <p align="center">
 ![model architecture](cnn-char.png)
+  </p>
 
 ### Deep Learning (Multimodal approach)
 
+# <p align="center">
 ![model architecture](multi_modal.png)
+  </p>
 
 ## Results
 
+# <p align="center">
 ![results](table.png)
+  <p align="center">
 
 ## Report
 
